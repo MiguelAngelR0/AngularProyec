@@ -1,0 +1,2 @@
+# AngularProyec
+proyecto de pokemon
